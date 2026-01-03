@@ -1,11 +1,7 @@
-# MULA V2
+# MULA — Contrato de Soberania & Verificação
 
-Versão mínima, limpa e determinística do MULA.
+Este repositório contém o **Contrato de Soberania MULA V2** e o respectivo **checklist de verificação**.
 
-Objetivo:
-- WhatsApp via QR
-- Controle humano básico
-- Sem IA
-- Sem pagamentos
-- Instalável
-- Versionado desde o primeiro commit
+Acesse:
+- https://github.com/franksushiman/MULA/blob/master/CONTRACTS/MULA_V2_SOVEREIGNTY_CONTRACT.md
+- https://github.com/franksushiman/MULA/blob/master/CONTRACTS/verify_contract.md
